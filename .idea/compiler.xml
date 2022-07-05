@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="AndroidLab.app" target="11" />
+      <module name="AndroidLab.ch6_view" target="11" />
       <module name="AndroidLab.lab6" target="11" />
     </bytecodeTargetLevel>
   </component>
