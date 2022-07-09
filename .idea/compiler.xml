@@ -4,6 +4,7 @@
     <bytecodeTargetLevel target="1.7">
       <module name="AndroidLab.app" target="11" />
       <module name="AndroidLab.ch6_view" target="11" />
+      <module name="AndroidLab.ch7_layout" target="11" />
       <module name="AndroidLab.lab6" target="11" />
       <module name="AndroidLab.lab7" target="11" />
     </bytecodeTargetLevel>
