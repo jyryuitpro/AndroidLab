@@ -9,6 +9,7 @@
       <module name="AndroidLab.lab6" target="11" />
       <module name="AndroidLab.lab7" target="11" />
       <module name="AndroidLab.lab8" target="11" />
+      <module name="AndroidLab.lab9" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
