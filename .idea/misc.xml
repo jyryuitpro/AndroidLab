@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="ch10_notification/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="ch6_view/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="ch7_layout/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="ch8_event/src/main/res/drawable/round_button.xml" value="0.7035" />
