@@ -12,6 +12,9 @@
         <entry key="ch11_jetpack/src/main/res/layout/item_recyclerview.xml" value="0.5" />
         <entry key="ch11_jetpack/src/main/res/menu/menu_main.xml" value="0.5" />
         <entry key="ch12_material/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="ch13_activity/src/main/res/layout/activity_add.xml" value="0.5" />
+        <entry key="ch13_activity/src/main/res/layout/activity_main.xml" value="0.478125" />
+        <entry key="ch13_activity/src/main/res/menu/menu_add.xml" value="0.7979166666666667" />
         <entry key="ch6_view/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="ch7_layout/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="ch8_event/src/main/res/drawable/round_button.xml" value="0.7035" />
