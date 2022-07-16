@@ -5,6 +5,7 @@
       <module name="AndroidLab.app" target="11" />
       <module name="AndroidLab.ch10_notification" target="11" />
       <module name="AndroidLab.ch11_jetpack" target="11" />
+      <module name="AndroidLab.ch12_material" target="11" />
       <module name="AndroidLab.ch6_view" target="11" />
       <module name="AndroidLab.ch7_layout" target="11" />
       <module name="AndroidLab.ch8_event" target="11" />
