@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidLab">
         <activity
+            android:name=".test3.Test3Activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".test2.Test2Activity"
             android:exported="true">
             <intent-filter>
@@ -32,7 +41,9 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="ACTION_EDIT" />
+
                 <category android:name="android.intent.category.DEFAULT" />
+
                 <data android:scheme="http" />
             </intent-filter>
         </activity>
